@@ -1,106 +1,130 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="480" viewBox="0 0 640 480" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="540" height="528" viewBox="0 0 540 528" xml:space="preserve">
 <desc>Created with Fabric.js 3.6.6</desc>
 <defs>
 </defs>
-<g transform="matrix(1 0 0 1 279 242.59)"  >
+<g transform="matrix(1 0 0 1 274 158.09)"  >
 <path style="stroke: rgb(231,206,67); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-276.5, -240.09)" d="M 83 375.5 L 470.00129198750744 375.5 L 470.00129198750744 167.6415707351637 L 267.59116089772965 167.64157073516373 L 267.59116089772965 103.74175258671863 L 86.47667565076011 103.74175258671866 L 86.47667565076013 376.431769229938" stroke-linecap="round" />
 </g>
-<g transform="matrix(1 0 0 1 271.5 274.12)"  >
+<g transform="matrix(1 0 0 1 266.5 189.62)"  >
 <path style="stroke: rgb(243,60,60); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-271, -272.62)" d="M 271 168.5 L 271 376.7402458700047" stroke-linecap="round" />
 </g>
-<g transform="matrix(1 0 0 1 157 240)"  >
+<g transform="matrix(1 0 0 1 152 155.5)"  >
 <path style="stroke: rgb(113,205,66); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-155.5, -237.5)" d="M 271 228.5 L 40 246.5" stroke-linecap="round" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 38.72 248.72)"  >
+<g transform="matrix(0.16 0 0 0.16 33.72 164.22)"  >
 <circle style="stroke: rgb(9,97,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(70,230,57); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 81.72 242.72)"  >
+<g transform="matrix(0.16 0 0 0.16 76.72 158.22)"  >
 <circle style="stroke: rgb(9,97,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(70,230,57); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 90.72 243.72)"  >
+<g transform="matrix(0.16 0 0 0.16 85.72 159.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 119.72 105.72)"  >
+<g transform="matrix(0.16 0 0 0.16 114.72 21.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 215.72 106.72)"  >
+<g transform="matrix(0.16 0 0 0.16 210.72 22.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 268.72 168.72)"  >
+<g transform="matrix(0.16 0 0 0.16 263.72 84.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 425.72 169.72)"  >
+<g transform="matrix(0.16 0 0 0.16 420.72 85.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 431.72 376.72)"  >
+<g transform="matrix(0.16 0 0 0.16 426.72 292.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 262.72 373.72)"  >
+<g transform="matrix(0.16 0 0 0.16 257.72 289.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 108.72 377.72)"  >
+<g transform="matrix(0.16 0 0 0.16 103.72 293.22)"  >
 <circle style="stroke: rgb(127,127,2); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 272.72 373.72)"  >
+<g transform="matrix(0.16 0 0 0.16 267.72 289.22)"  >
 <circle style="stroke: rgb(117,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 277.72 168.72)"  >
+<g transform="matrix(0.16 0 0 0.16 272.72 84.22)"  >
 <circle style="stroke: rgb(117,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 275.72 227.72)"  >
+<g transform="matrix(0.16 0 0 0.16 270.72 143.22)"  >
 <circle style="stroke: rgb(117,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 146.72 238.72)"  >
+<g transform="matrix(0.16 0 0 0.16 141.72 154.22)"  >
 <circle style="stroke: rgb(9,97,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(70,230,57); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 203.72 233.72)"  >
+<g transform="matrix(0.16 0 0 0.16 198.72 149.22)"  >
 <circle style="stroke: rgb(9,97,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(70,230,57); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(0.16 0 0 0.16 266.72 228.72)"  >
+<g transform="matrix(0.16 0 0 0.16 261.72 144.22)"  >
 <circle style="stroke: rgb(9,97,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(70,230,57); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(1 0 0 1 471.81 394.17)" style=""  >
+<g transform="matrix(1 0 0 1 466.81 309.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-72.31" y="5.65" style="font-family: 'Open Sans', sans-serif; font-size: 18px; font-weight: bold; fill: rgb(37,7,7); ">Гренуиград</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 489.13 153.17)" style=""  >
+<g transform="matrix(1 0 0 1 484.13 68.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Заоконноливская</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 204.13 92.17)" style=""  >
+<g transform="matrix(1 0 0 1 199.13 7.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Лесная</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 359.13 213.17)" style=""  >
+<g transform="matrix(1 0 0 1 354.13 128.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Бибилотека</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 348.13 394.17)" style=""  >
-		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Подмостовая</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 341.13 155.17)" style=""  >
+<g transform="matrix(1 0 0 1 336.13 70.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Яначевская</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 305.13 96.17)" style=""  >
+<g transform="matrix(1 0 0 1 300.13 11.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Лягушачья</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 117.14 231.17)" style=""  >
+<g transform="matrix(1 0 0 1 112.13 146.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Фермерская</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 156.13 261.17)" style=""  >
+<g transform="matrix(1 0 0 1 151.13 176.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Кл. Дворец</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 220.13 216.17)" style=""  >
+<g transform="matrix(1 0 0 1 215.13 131.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" >Бахтальная</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 293.13 252.17)" style=""  >
+<g transform="matrix(1 0 0 1 288.13 167.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(0,0,0); ">Баскетная</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 167.13 393.17)" style=""  >
+<g transform="matrix(1 0 0 1 162.13 308.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" >Портовая</tspan></text>
 </g>
-<g transform="matrix(0.16 0 0 0.16 176.9 377.9)"  >
-<circle style="stroke: rgb(127,127,2); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+<g transform="matrix(0.16 0 0 0.16 171.48 292.98)"  >
+<circle style="stroke: rgb(127,127,2); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,250,49); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
 </g>
-<g transform="matrix(1 0 0 1 248.13 362.17)" style=""  >
+<g transform="matrix(1 0 0 1 243.13 277.67)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(0,0,0); ">Набережная</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 265.5 414.62)"  >
+<path style="stroke: rgb(243,60,60); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-271, -272.62)" d="M 271 168.5 L 271 376.7402458700047" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.16 0 0 0.16 265.9 521.4)"  >
+<circle style="stroke: rgb(117,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+<g transform="matrix(1 0 0 1 265.5 384.62)"  >
+<path style="stroke: rgb(243,60,60); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-271, -272.62)" d="M 271 168.5 L 271 376.7402458700047" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.16 0 0 0.16 265.9 453.4)"  >
+<circle style="stroke: rgb(117,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+<g transform="matrix(0.16 0 0 0.16 265.9 375.4)"  >
+<circle style="stroke: rgb(117,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,46,46); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+<g transform="matrix(1 0 0 1 377.13 363.67)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" >Магическая</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 343.13 309.67)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(37,7,7); ">Подмостовая</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 277.13 437.67)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(0,0,0); ">Хогвартская</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 375.13 507.67)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.64" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(0,0,0); ">Атракционная</tspan></text>
 </g>
 </svg>
